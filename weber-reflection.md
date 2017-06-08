@@ -1,4 +1,4 @@
-# Before this GPS session i was really struggling with Github in itself. It was not so much why we use it. But implementing it. Sharing your files with your teamates or just your own and accessing them
+* Before this GPS session i was really struggling with Github in itself. It was not so much why we use it. But implementing it. Sharing your files with your teamates or just your own and accessing them
 
 * During the GPS Sam and I seemed to work well with eachother by talking out what we needed to do. So I had questions about how to PULL work from Github. This was the perfect example of how to do that. We had one person made the REPO and then the other had to grab and use those files. This was the perfect exercise to really let me understand what i was struggling with, Pulling files from a repo.
 
